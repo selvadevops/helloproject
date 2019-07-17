@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Context displayName="HelloWorldStruts" path="/HelloWorldStruts" reloadable="true"
+	swallowOutput="true" processTlds="false">
+</Context>
